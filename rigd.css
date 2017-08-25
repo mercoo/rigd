@@ -1,0 +1,43 @@
+body{
+	max-width: 1200px;
+	margin: auto;
+	background: #fafafa;
+}
+
+.header{
+	width: 50%;
+	margin-left: 30px;
+	border: 2px solid #fafafa;
+	
+
+}
+
+.header h1{
+
+
+
+   font-family: 'Monoton', cursive;
+   font-weight: 800;
+   font-size: 65px;
+   margin-left: 0;
+   color: #565E71;
+}
+
+.container{
+	padding: 15px;
+}
+
+.container img{
+	float: center;
+	width: 30%;
+	border: 2px solid #fafafa;
+	margin: 1em;
+}
+.footer{
+	
+}
+hr.style13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
